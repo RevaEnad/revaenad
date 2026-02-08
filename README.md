@@ -1,3 +1,5 @@
+Hi there my name is Reva 👋
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Frontend-first applications with a strong focus on UI/UX, usability, and visual consistency, backed by reliable APIs and well-structured backend logic.<br><br>👯 I’m looking to collaborate on<br>Products where frontend quality matters—clean interfaces, smooth user flows, and responsive design—while still valuing solid backend implementation.<br><br>🤝 I’m looking for help with<br>Scaling frontend architectures, refining design systems, and improving collaboration between frontend and backend layers.<br><br>🌱 I’m currently learning<br>Advanced frontend patterns, accessibility best practices, and improving how frontend integrates with complex backend systems.<br><br>💬 Ask me about<br>Frontend development, UI/UX design, turning Figma designs into reusable components, debugging frontend-backend issues, and building end-to-end features.<br><br>⚡ Fun fact<br>I approach problems from the frontend user experience first, then debug and solve them all the way down to the backend.
 
